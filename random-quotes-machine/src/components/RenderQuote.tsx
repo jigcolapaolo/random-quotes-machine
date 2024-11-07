@@ -1,7 +1,9 @@
+import { HexColor } from "../lib/types";
+
 interface Props {
   quote: string;
   author: string;
-  color: string;
+  color: HexColor;
   visible: boolean;
 }
 

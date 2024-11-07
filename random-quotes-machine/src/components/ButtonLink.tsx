@@ -1,5 +1,7 @@
+import { HexColor } from "../lib/types";
+
 interface Props {
-    color: string
+    color: HexColor
     updateQuote: () => void
 }
 
