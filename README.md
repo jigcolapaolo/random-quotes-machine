@@ -1,4 +1,4 @@
-# Random Quotes Machine <img src="https://github.com/user-attachments/assets/a32491bb-6e52-4733-87ec-5b58d79d5800" alt="App Logo" width="30" height="30" />
+# Random Quotes Machine <img src="https://github.com/user-attachments/assets/a9bee70a-8ebb-4007-8621-56f7545b56bc" alt="App Logo" width="45" height="45" />
 <br>
 <img src="https://github.com/user-attachments/assets/2e255ee4-a0c0-4399-bd71-865766df1747" alt="App Img" width="400" height="250" />
 
